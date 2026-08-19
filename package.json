@@ -1,0 +1,21 @@
+{
+  "name": "pc-lopal",
+  "version": "1.0.0",
+  "description": "Repositório para armazenar os códigos da aula.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raymontteiro2010-a11y/pc-lopal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/raymontteiro2010-a11y/pc-lopal/issues"
+  },
+  "homepage": "https://github.com/raymontteiro2010-a11y/pc-lopal#readme"
+}
